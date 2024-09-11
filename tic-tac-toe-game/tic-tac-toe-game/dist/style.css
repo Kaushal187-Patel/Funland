@@ -1,0 +1,49 @@
+body {
+    background-image: url("https://images.unsplash.com/photo-1475332340095-a12d7b5a7fdc?");
+    padding: 0;
+    margin: 0;
+    text-transform: uppercase;
+    column-fill: #111;
+    font-size: 1.5vh;
+    background-origin:padding-box;
+    background-size:cover;    
+}
+
+.btn-default {
+    margin: 5px;
+    width: 15vh;
+    height: 15vh;
+    font-size: 8vh;
+    text-align: center;
+    background-color: rgb(51.7%, 96.8%, 92.4%)
+}
+
+#winner,
+.top,
+#move {
+    font-size: 2em;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p {
+    font-size: 1.5em;
+    font-family: Helvetica, sans-serif;
+  color:white;
+}
+
+hr {
+    width: 30%;
+}
+
+#winner,
+h1{
+  color:white;
+}
+.sign {
+    background-color: white;
+    width: 154px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 5px;
+    border: 1px solid black;
+}
